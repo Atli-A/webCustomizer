@@ -1,0 +1,16 @@
+body {
+    padding: none;
+    font-family: monospace;
+    margin: 0px;
+}
+
+
+
+
+#mainDiv {
+    border: none;
+    margin: none;
+    width: 400px;
+    height: 400px;
+    background-image: linear-gradient(50deg, blue, teal);
+}
