@@ -1,11 +1,12 @@
 ::-webkit-scrollbar {
     width: 12px;
-    border-radius: 100px;
+    /* border-radius: 100px; */
   }
   
   /* Track */
   ::-webkit-scrollbar-track {
     background: #222;
+    border-radius: 100px;
   }
   
   /* Handle */
